@@ -52,7 +52,7 @@
 		(filling no)
 		(grid_origin 146.647 120.612)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f5ff)
+			(layerselection 0x00000000_00000000_55555555_575555ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -80,12 +80,12 @@
 			(hidednponfab no)
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Gerbers/")
 		)
 	)
 	(footprint "PCM_marbastlib-mx:STAB_MX_P_6.25u"
@@ -46063,7 +46063,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "USB"
+		(property "Value" "USB_C_Receptacle_USB2.0_16P"
 			(at 0.12175 0.62775 0)
 			(layer "F.Fab")
 			(uuid "b3406aac-0c1a-4a18-bbda-0263a756067a")

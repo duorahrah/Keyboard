@@ -1,9 +1,10 @@
 # Keyboard
-Designed and built fully custom mechanical keyboard end-to-end, PCB design (KiCad), case design (Onshape) and 3D printing, and firmware (QMK on RP2040).
+Designed and built fully custom mechanical keyboard end-to-end, PCB design (KiCad), case design (Onshape) and 3D printing, and firmware (QMK on RP2040).\
 <img width="353" height="128" alt="image" src="https://github.com/user-attachments/assets/d6153cfe-5eed-4602-bab4-caacfde0722e" />
 
 ## PCB Design
 <img width="539" height="219" alt="image" src="https://github.com/user-attachments/assets/217463de-bb8e-4ffa-8f7e-20e498705dfc" />
+<img width="203" height="150" alt="image" src="https://github.com/user-attachments/assets/7ae6235d-4f7e-4e62-8564-b6d8eb202858" />
 <img width="332" height="148" alt="image" src="https://github.com/user-attachments/assets/0643f9e8-a754-483a-a976-f731d8e7cfec" />
 <img width="295" height="166" alt="image" src="https://github.com/user-attachments/assets/7ff9d169-b1da-4953-b0fa-2151d0e63a41" /><br/>
 -	Designed a RP2040-based custom mechanical keyboard PCB in KiCad with full keyboard matrix and USB-C connectivity

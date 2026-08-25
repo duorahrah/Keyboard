@@ -1,4 +1,4 @@
-# Keyboard
+# Custom 75% Mechanical Keyboard
 Designed and built fully custom mechanical keyboard end-to-end, PCB design (KiCad), case design (Onshape) and 3D printing, and firmware (QMK on RP2040).\
 <img width="353" height="128" alt="image" src="https://github.com/user-attachments/assets/d6153cfe-5eed-4602-bab4-caacfde0722e" />
 

@@ -13,7 +13,7 @@ Designed and built fully custom mechanical keyboard end-to-end, PCB design (KiCa
 
 ## Case Design
 <img width="307" height="136" alt="image" src="https://github.com/user-attachments/assets/d922f731-d2cf-4608-8f65-9b2819f292df" />
-<img width="323" height="189" alt="image" src="https://github.com/user-attachments/assets/460011c0-a930-4467-9488-63b0b44d4c7d" />
+<img width="323" height="189" alt="image" src="https://github.com/user-attachments/assets/460011c0-a930-4467-9488-63b0b44d4c7d" /><br/>
 -	Modeled custom case in Onshape, accounting for PCB mounting points, USB-C cutout, and switch plate clearance 
 
 

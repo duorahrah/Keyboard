@@ -5,7 +5,7 @@ Designed and built fully custom mechanical keyboard end-to-end, PCB design (KiCa
 # PCB Design
 <img width="539" height="219" alt="image" src="https://github.com/user-attachments/assets/217463de-bb8e-4ffa-8f7e-20e498705dfc" />
 <img width="332" height="148" alt="image" src="https://github.com/user-attachments/assets/0643f9e8-a754-483a-a976-f731d8e7cfec" />
-<img width="295" height="166" alt="image" src="https://github.com/user-attachments/assets/7ff9d169-b1da-4953-b0fa-2151d0e63a41" />
+<img width="295" height="166" alt="image" src="https://github.com/user-attachments/assets/7ff9d169-b1da-4953-b0fa-2151d0e63a41" />\
 -	Designed a RP2040-based custom mechanical keyboard PCB in KiCad with full keyboard matrix and USB-C connectivity
 -	Includes full RP2040 support circuitry (crystal, QSPI flash, decoupling, reset and BOOTSEL)
 -	Routed and manufactured the PCB
